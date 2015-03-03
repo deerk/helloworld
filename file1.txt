@@ -1,2 +1,3 @@
 this is file1.txt
 Hi from deerk
+Today is Monday 3rd March 2015
